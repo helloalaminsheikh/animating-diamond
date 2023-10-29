@@ -1,6 +1,4 @@
-	
 <style>
-	
 	
 .pyramid-loader {
   position: relative;
@@ -75,6 +73,7 @@
 }
 </style>
 
+<!-- html -->
 <div class="pyramid-loader">
   <div class="wrapper">
     <span class="side side1"></span>
